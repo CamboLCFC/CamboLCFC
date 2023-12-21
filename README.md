@@ -19,7 +19,7 @@ I am passionate about programming and I am learning different languages. I am cu
 
 ## Contact: 
 If you would like to get in touch with me, reach out to me via:
-- Discord - <a href="https://discord.com/users/703077578419732543>cameron.stewart</a>
+- Discord - <a href="https://discord.com/users/703077578419732543">cameron.stewart</a>
 - Twitter - <a href="https://twitter.com/cstewy12">@cstewy12</a> 
 - Email - <a href="mailto:cameronlc03@gmail.com">cameronlc03@gmail.com</a>
 
