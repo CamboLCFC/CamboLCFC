@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=FE5816&lines=%F0%9F%91%8B+Hiya+I'm+Cameron!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=FE5816&lines=%F0%9F%91%8B+Hi!+I'm+Cameron!)](https://git.io/typing-svg)
 
 <samp>
 I am passionate about programming and I am learning different languages. I am currently developing my own personal website to share my journey and experiences with people are looking to take same path as me. 
@@ -39,3 +39,14 @@ If you would like to get in touch with me, reach out to me via:
 ![Hits](https://hits-app.vercel.app/hits?url=https://github.com/cambolcfc&bgLeft=444444&bgRight=800080&label=visits) 
 
 ---
+
+## Contact Me :iphone:
+
+<p align="center">
+  <a href="https://instagram.com/cstewy12" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:cameronlc03@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/cameron-stewart-40843317b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    </a>
+</p>
+
+<p align="center"> 
