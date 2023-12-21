@@ -11,7 +11,7 @@ I am passionate about programming and I am learning different languages. I am cu
 </a>
 
 <samp>
-  <h3>My Stack:</h3>
+  <h3>What am I good at?:</h3>
 </samp>
 
 ![Web Development](https://skillicons.dev/icons?i=html,css,js,ts,azure,cs,discord,php&perline=10)
