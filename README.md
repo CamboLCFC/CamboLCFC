@@ -11,10 +11,22 @@ I am passionate about programming and I am learning different languages. I am cu
 </a>
 
 <samp>
-  <h3>What am I good at?:</h3>
+  <h3>What I am good at:</h3>
 </samp>
 
-![Web Development](https://skillicons.dev/icons?i=html,css,js,ts,azure,cs,discord,php&perline=10)
+![Web Development](https://skillicons.dev/icons?i=html,css,js&perline=10)
+
+<samp>
+  <h3>What I can improve at:</h3>
+</samp>
+
+![Improvements](https://skillicons.dev/icons?i=azure,cs,php&perline=10)
+
+<samp>
+  <h3>What I would like to start to learn:</h3>
+</samp>
+
+![Improvements](https://skillicons.dev/icons?i=cs,tailwind,rust,react,py,laravel&perline=10)
 
 
 ## Contact: 
