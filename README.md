@@ -4,6 +4,14 @@
 I am passionate about programming and I am learning different languages. I am currently developing my own personal website to share my journey and experiences with people are looking to take same path as me. 
 </samp>
 
+---
+
 <a>
   <img width="40%" src="https://lanyard-profile-readme.vercel.app/api/703077578419732543?hideTimestamp=true&idleMessage=Idle%20%20at%20the%20moment...&hideDiscrim=true" align="right" />
 </a>
+
+<samp>
+  <h3>My Stack:</h3>
+</samp>
+
+![Web Development](https://skillicons.dev/icons?i=html,css,js,ts,azure,cs,discord,php&perline=10)
