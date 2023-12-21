@@ -20,7 +20,7 @@ I am passionate about programming and I am learning different languages. I am cu
   <h3>What I can improve at:</h3>
 </samp>
 
-![Improvements](https://skillicons.dev/icons?i=cs,php&perline=10)
+![Improvements](https://skillicons.dev/icons?i=php&perline=10)
 
 <samp>
   <h3>What I would like to start to learn:</h3>
