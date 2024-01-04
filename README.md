@@ -43,10 +43,10 @@ If you would like to get in touch with me, reach out to me via:
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/CamboLCFC/cambolcfc">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cambolcfc&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cambolcfc&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/CamboLCFC/cambolcfc">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cambolcfc&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Carlos' GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cambolcfc&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Cameron' GitHub Stats" />
 </a>
 
 <p align="center"> 
