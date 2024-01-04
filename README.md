@@ -40,13 +40,13 @@ If you would like to get in touch with me, reach out to me via:
 
 ---
 
-## Contact Me :iphone:
+## &#x1f4c8; GitHub Stats
 
-<p align="center">
-  <a href="https://instagram.com/cstewy12" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:cameronlc03@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/cameron-stewart-40843317b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    </a>
-</p>
+<a href="https://github.com/CamboLCFC/cambolcfc">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cambolcfc&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/CamboLCFC/cambolcfc">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cambolcfc&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Carlos' GitHub Stats" />
+</a>
 
 <p align="center"> 
