@@ -24,8 +24,8 @@ Passionate about writing elegant code, solving complex problems, and delivering 
 ---
 
 ## 📊 GitHub Stats
-![Cameron's GitHub stats](https://github-readme-stats.vercel.app/api?username=CamboLCFCE&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CamboLCFCE&layout=compact&theme=tokyonight)
+![Cameron's GitHub stats](https://github-readme-stats.vercel.app/api?username=CamboLCFC&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CamboLCFC&layout=compact&theme=tokyonight)
 
 ---
 
