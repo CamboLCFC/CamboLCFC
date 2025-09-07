@@ -38,7 +38,7 @@ Passionate about writing elegant code, solving complex problems, and delivering 
 
 ## 📫 Connect With Me
 - **Portfolio:** [cameronstewart.co.uk](https://cameronstewart.co.uk)  
-- **LinkedIn:** [Cameron Stewart]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/cameron-stewart-40843317b/))  
+- **LinkedIn:** [Cameron Stewart](https://linkedin.com/in/your-link](https://www.linkedin.com/in/cameron-stewart-40843317b/))  
 - **Email:** hello@cameronstewart.co.uk 
 
 ---
